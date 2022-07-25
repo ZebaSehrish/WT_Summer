@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-1 {
+    background-color: rgba(134, 229, 244, 0.514);
+    width: 50%;
+    border: 5px solid rgb(191, 213, 214);
+    padding-top: 50px;
+}
+
+.box-2 {
+    background-color: rgb(191, 213, 214);
+    width: 50%;
+    border: 5px solid rgb(191, 213, 214);
+    padding-bottom: 50px;
+}
+
+.head {
+    background-color: rgb(75, 10, 136);
+    color: white;
+    width: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+span {
+    padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    color: blue;
+    text-align: center;
+}
+
+.reg {
+    background-color: rgb(226, 238, 235);
+    border-left: 10px solid rgb(85, 215, 183);
+    padding: 10px;
+}
+
+/* table */
+
+table tr {
+    background-color: rgb(225, 207, 103);
+    width: auto;
+}
+
+.button {
+    width: auto;
+    background-color: rgb(51, 127, 174);
+    font-weight: 700;
+    border-radius: 5px;
+}
